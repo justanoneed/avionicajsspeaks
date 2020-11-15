@@ -1,0 +1,2 @@
+client.on("ready", () => {
+console.log(\jthefibot has started, with ${bot.users.size} users, in ${bot.channels.size} channels of ${bot.guilds.size} servers.`);client.user.setPresence({status: "online",game: {name: `jt.help for commands | Watching over the jTheFifthElement server with ${bot.users.size} members.`,type: "Watching"}});});`
